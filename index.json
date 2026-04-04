@@ -767,6 +767,45 @@
       "updated": "2026-02-20"
     },
     {
+      "name": "armed-gearhead-lor",
+      "display_name": "Armed Gearhead (LoR) Sound Pack",
+      "version": "1.0.0",
+      "description": "A sound pack based on Armed Gearhead from Legends of Runeterra.",
+      "author": {
+        "name": "PompolutZ",
+        "github": "PompolutZ"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 18,
+      "total_size_bytes": 5540988,
+      "source_repo": "PompolutZ/openpeon-armed-gearhead-lor",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "57018ba6cdf1fbdd20e6e77bfd9f7a133053d25cdec78cbac48d3ac97116e8e7",
+      "tags": [
+        "gaming",
+        "lor",
+        "runeterra",
+        "riot"
+      ],
+      "preview_sounds": [
+        "start-gearhead-glorious.wav",
+        "complete-gearhead-progress.wav"
+      ],
+      "added": "2026-04-04",
+      "updated": "2026-04-04"
+    },
+    {
       "name": "arnold",
       "display_name": "Arnold Schwarzenegger",
       "version": "1.0.0",
