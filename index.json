@@ -10169,7 +10169,7 @@
     {
       "name": "tiberian-sun-cabal",
       "display_name": "Tiberian Sun CABAL",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "CABAL - Tiberian Sun (only uses voicelines from Tiberian Sun CABAL)",
       "author": {
         "name": "Gus El Khoury Seoane",
@@ -10189,11 +10189,11 @@
       "language": "en",
       "license": "CC-BY-NC-4.0",
       "sound_count": 43,
-      "total_size_bytes": 12334026,
+      "total_size_bytes": 12334039,
       "source_repo": "gustakasn0v/openpeon-tiberian-sun-cabal",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "e64aa9cf4351bcff399b4cf37f8b2d7e8e6854b32cfae1faafa0beafedd8693b",
+      "manifest_sha256": "b4898c9b2d34d1c91de80c2d6f404e67d5b48be81b5fa27f310be974ee100806",
       "tags": [
         "cabal",
         "gaming",
