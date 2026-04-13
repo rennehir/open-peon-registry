@@ -11398,7 +11398,7 @@
     {
       "name": "worms-armageddon-fi",
       "display_name": "Worms Armageddon (FI)",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "description": "Legendary voices from Worms Armageddon in the Finnish language",
       "author": {
         "name": "rennehir",
@@ -11421,9 +11421,9 @@
       "sound_count": 54,
       "total_size_bytes": 15587994,
       "source_repo": "rennehir/openpeon-finnish-worms",
-      "source_ref": "v2.1.0",
+      "source_ref": "v2.1.1",
       "source_path": ".",
-      "manifest_sha256": "2db3d7d50bae13f36706e10ea8aaea8aa2c7bb71630b07ab7ad8071174255162",
+      "manifest_sha256": "ce24277d8f3b6a0da0136190127fdde889e438e848394501e349499b6cb128c4",
       "tags": [
         "gaming",
         "strategy",
@@ -11438,7 +11438,7 @@
         "sounds/yessir.ogg"
       ],
       "added": "2026-04-09",
-      "updated": "2026-04-09"
+      "updated": "2026-04-13"
     },
     {
       "name": "worms-armageddon-ptbr",
